@@ -2045,6 +2045,8 @@ input, select, textarea {
 			bottom: 9em;
 			margin: 0;
 			width: 100%;
+
+			line-height: 0.1rem;
 		}
 
 			#header footer:after {
