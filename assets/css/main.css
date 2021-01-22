@@ -2091,7 +2091,7 @@ input, select, textarea {
 		color: #fff;
 		text-shadow: 0 0 0.5px rgba(255, 255, 255, 0.25);
 		text-align: center;
-		background: #35b88f url("images/banner.svg") bottom center no-repeat;
+		background: rgba(0, 0, 0, 0) url(images/unsplashbanner.jpg) bottom center no-repeat;
 		padding: 5em 0 5em 0;
 		margin: 0;
 		background-size: 125% auto;
@@ -2107,8 +2107,10 @@ input, select, textarea {
 		}
 
 			#banner header h2 {
+				background: rgba(0, 0, 0, 0.5);
+				padding: 2rem;
 				font-weight: 400;
-				font-size: 1.75em;
+				font-size: 4em;
 				letter-spacing: 8px;
 			}
 
