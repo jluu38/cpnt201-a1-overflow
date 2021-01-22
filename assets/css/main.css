@@ -2085,7 +2085,7 @@ input, select, textarea {
 			}
 
 /* Banner */
-
+/* couldn't solve: center vertical line on banner.svg won't line up with rest of the page */
 	#banner {
 		position: relative;
 		color: #fff;
